@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Array-Allocation_memory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Array-Declarations.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Array-Initializing_an_array_of_integers.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Array-The_last_element_of_an_array.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Array-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Arrays_as_parameters-Adding_values.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Arrays_as_parameters-How_to_invoke_the_method.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Arrays_as_parameters-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Arrays_as_parameters-Varargs.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Constructor-Account_and_its_owner.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Constructor-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Declaring_a_method-Division.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Declaring_a_method-Find_the_max_of_three_numbers.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Declaring_a_method-The_sign_of_a_number.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Declaring_a_method-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Defining_classes-Correct_fields.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Defining_classes-Inner_boxes.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Defining_classes-Representing_time_as_a_class.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Defining_classes-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Errors_in_programs-Fix_compile-time_errors.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Errors_in_programs-Print_the_age.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Errors_in_programs-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Floating-point_types-Determine_the_result.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Floating-point_types-Difference_between_two_doubles.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Floating-point_types-Find_X.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Floating-point_types-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Instance_methods-Counter.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Instance_methods-In_a_box.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Instance_methods-Instance_method_and_its_class.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Instance_methods-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Objects-Change_identities.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Objects-Null_or_not.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Objects-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Objects-What_is_the_value_of_a_field.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Primitive_and_reference_types-Creating_a_primitive.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Primitive_and_reference_types-Creating_a_reference_type.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Primitive_and_reference_types-Null_syntax.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Primitive_and_reference_types-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Processing_strings-Determine_the_output.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Processing_strings-Determine_the_value.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Processing_strings-Determine_the_value__1_.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Processing_strings-Double_characters.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Processing_strings-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-StringBuilder-Behold_the_power_of_StringBuilder.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-StringBuilder-Love_of_big_letters.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-StringBuilder-Multiple_modifications.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-StringBuilder-StringBuilder_methods.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-StringBuilder-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-The_main_method-A_strange_declaration_of_the_main_method.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-The_main_method-Fixing_the_main_method.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-The_main_method-Select_all_correct_statements.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-The_main_method-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-The_main_method-Who_is_the_main.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Types_of_references-Get_the_variable_value.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Types_of_references-Soft_Reference_vs_Weak_Reference.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Types_of_references-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
